@@ -57093,51 +57093,51 @@ ap:function(){return new L.Is(C.m)}}
 L.Is.prototype={
 dc:function(a,b){var s=null
 return T.dm(H.b([L.dk(C.iE,P.ae(153,100,255,218),s,14),T.aq(s,s,a.K(t.w).f.a.a*0.04),L.ck(b,s,s,A.cl(s,s,new P.n(4285627545),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,1.75,s,s,s,s,s),s,s)],t._),C.t,C.A,C.a_)},
-F:function(c5,c6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this,a8=null,a9=4278851887,b0=4284809178,b1=4282514394,b2=4291614454,b3="Get In Touch",b4=4284611029,b5=4281351253,b6=4286746026,b7=new E.C9(),b8=t.w,b9=c6.K(b8).f.a,c0=K.n0(a8,L.dk(C.ov,a8,a8,a8)),c1=L.ck("Sumaya Mohammed",a8,a8,a8,a8,a8),c2=L.ck("sumaya.shahoyi@gmail.com",a8,a8,a8,a8,a8),c3=L.ck("Share",a8,a8,a8,a8,a8),c4=t._
-c3=T.cf(H.b([new T.vH(c0,c1,c2,a8),Q.acu(L.dk(C.ox,a8,a8,a8),c3),Q.acu(L.dk(C.ot,a8,a8,a8),L.ck("About",a8,a8,a8,a8,a8)),T.i8(L.ck("Version 1.0.1",a8,a8,a8,a8,a8),1)],c4),C.t,C.A)
-c2=B.cM(a8,L.dk(C.iC,new P.n(b0),a8,32),24,new L.a2C(),a8)
-c0=b9.b
-c1=c0*0.08
-s=T.aq(a8,c1,a8)
-r=T.aq(a8,c0*0.02,a8)
-q=c0*0.04
+F:function(c6,c7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this,a8=null,a9=4278851887,b0="Sumaya Mohammed",b1=4284809178,b2=4282514394,b3=4291614454,b4="Get In Touch",b5=4284611029,b6=4281351253,b7=4286746026,b8=new E.C9(),b9=t.w,c0=c7.K(b9).f.a,c1=K.n0(a8,L.dk(C.ov,a8,a8,a8)),c2=L.ck(b0,a8,a8,a8,a8,a8),c3=L.ck("sumaya.shahoyi@gmail.com",a8,a8,a8,a8,a8),c4=L.ck("Share",a8,a8,a8,a8,a8),c5=t._
+c4=T.cf(H.b([new T.vH(c1,c2,c3,a8),Q.acu(L.dk(C.ox,a8,a8,a8),c4),Q.acu(L.dk(C.ot,a8,a8,a8),L.ck("About",a8,a8,a8,a8,a8)),T.i8(L.ck("Version 1.0.1",a8,a8,a8,a8,a8),1)],c5),C.t,C.A)
+c3=B.cM(a8,L.dk(C.iC,new P.n(b1),a8,32),24,new L.a2C(),a8)
+c1=c0.b
+c2=c1*0.08
+s=T.aq(a8,c2,a8)
+r=T.aq(a8,c1*0.02,a8)
+q=c1*0.04
 p=T.aq(a8,q,a8)
 o=P.ae(153,204,214,246)
 n=T.aq(a8,q,a8)
-m=T.kl(C.aX,H.b([L.ck("I'm a freelancer based in Erbi,Iraq specializing in building and designing applications, and everything in between.",a8,a8,A.cl(a8,a8,C.c5,a8,a8,a8,a8,a8,a8,a8,a8,15,a8,a8,a8,a8,!0,a8,2.75,a8,a8,a8,a8,0.75),a8,a8)],c4))
-l=c0*0.06
+m=T.kl(C.aX,H.b([L.ck("I'm a freelancer based in Erbi,Iraq specializing in building and designing applications, and everything in between.",a8,a8,A.cl(a8,a8,C.c5,a8,a8,a8,a8,a8,a8,a8,a8,15,a8,a8,a8,a8,!0,a8,2.75,a8,a8,a8,a8,0.75),a8,a8)],c5))
+l=c1*0.06
 k=T.aq(a8,l,a8)
 j=K.eL(4)
 i=K.eL(4)
-j=V.qO(M.as(C.F,new B.tn(new L.a2D(b7),C.ug,L.ck(b3,a8,a8,A.cl(a8,a8,new P.n(b0),a8,a8,a8,a8,a8,a8,a8,a8,15,a8,a8,a8,a8,!0,a8,2.75,a8,a8,a8,a8,1),a8,a8),a8),C.i,a8,a8,new S.cn(new P.n(a9),a8,a8,i,a8,a8,C.P),a8,56,new V.aS(0.75,0.75,0.75,0.75),a8,a8,a8,160),new P.n(b0),a8,new X.cE(j,C.q))
-i=T.aq(a8,c1,a8)
-h=b9.a
-g=c0*0.07
-l=T.ac2(M.as(a8,T.cf(H.b([T.dm(H.b([new X.be("01.",20,new P.n(b4),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("About Me",26,new P.n(b2),a8,C.Q,a8),T.aq(a8,a8,c6.K(b8).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b5),a8,a8,a8,1.1,a8,a8,a8,a8,h/4)],c4),C.t,C.A,C.a_),T.aq(a8,g,a8),T.kl(C.aX,H.b([new X.be(u.z,16,new P.n(b6),0.75,a8,a8),new X.be(u.R,16,new P.n(b6),0.75,a8,a8),new X.be(u.C,16,new P.n(b6),0.75,a8,a8)],c4)),T.aq(a8,l,a8),M.as(C.F,T.dm(H.b([T.cf(H.b([a7.dc(c6,"Dart"),a7.dc(c6,"Flutter"),a7.dc(c6,"Firebase"),a7.dc(c6,"UI/UX (Adobe XD)")],c4),C.b_,C.bq),T.cf(H.b([a7.dc(c6,u.N),a7.dc(c6,"HTML & (S)CSS"),a7.dc(c6,"java, C++."),a7.dc(c6,"Git - Github")],c4),C.t,C.A)],c4),C.t,C.bq,C.a_),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h)],c4),C.t,C.A),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h),C.ck)
-c1=T.aq(a8,c1,a8)
-f=c0*0.5
+j=V.qO(M.as(C.F,new B.tn(new L.a2D(b8),C.ug,L.ck(b4,a8,a8,A.cl(a8,a8,new P.n(b1),a8,a8,a8,a8,a8,a8,a8,a8,15,a8,a8,a8,a8,!0,a8,2.75,a8,a8,a8,a8,1),a8,a8),a8),C.i,a8,a8,new S.cn(new P.n(a9),a8,a8,i,a8,a8,C.P),a8,56,new V.aS(0.75,0.75,0.75,0.75),a8,a8,a8,160),new P.n(b1),a8,new X.cE(j,C.q))
+i=T.aq(a8,c2,a8)
+h=c0.a
+g=c1*0.07
+l=T.ac2(M.as(a8,T.cf(H.b([T.dm(H.b([new X.be("01.",20,new P.n(b5),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("About Me",26,new P.n(b3),a8,C.Q,a8),T.aq(a8,a8,c7.K(b9).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b6),a8,a8,a8,1.1,a8,a8,a8,a8,h/4)],c5),C.t,C.A,C.a_),T.aq(a8,g,a8),T.kl(C.aX,H.b([new X.be(u.z,16,new P.n(b7),0.75,a8,a8),new X.be(u.R,16,new P.n(b7),0.75,a8,a8),new X.be(u.C,16,new P.n(b7),0.75,a8,a8)],c5)),T.aq(a8,l,a8),M.as(C.F,T.dm(H.b([T.cf(H.b([a7.dc(c7,"Dart"),a7.dc(c7,"Flutter"),a7.dc(c7,"Firebase"),a7.dc(c7,"UI/UX (Adobe XD)")],c5),C.b_,C.bq),T.cf(H.b([a7.dc(c7,u.N),a7.dc(c7,"HTML & (S)CSS"),a7.dc(c7,"java, C++."),a7.dc(c7,"Git - Github")],c5),C.t,C.A)],c5),C.t,C.bq,C.a_),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h)],c5),C.t,C.A),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h),C.ck)
+c2=T.aq(a8,c2,a8)
+f=c1*0.5
 e=h*0.6
-e=T.eO(M.as(a8,T.fF(C.aB,H.b([T.ht(a8,V.qO(M.as(a8,a8,C.i,new P.n(a9),a8,a8,a8,c0*0.45,new V.aS(2.75,2.75,2.75,2.75),a8,a8,a8,h*0.66),new P.n(b4),a8,a8),a8,a8,50,20,50,a8),M.as(a8,U.RP(C.ck,new L.jl("images/pic1.jpg")),C.i,a8,a8,a8,a8,f,a8,a8,a8,a8,e),M.as(a8,a8,C.i,P.ae(C.d.an(127.5),97,249,213),a8,a8,a8,f,a8,a8,a8,a8,e)],c4),C.ar),C.i,a8,a8,a8,a8,c0*0.6,a8,a8,a8,a8,h*0.7),a8,a8)
-f=T.dm(H.b([new X.be("02.",20,new P.n(b4),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("Where I've Worked",26,new P.n(b2),a8,C.Q,a8),T.aq(a8,a8,c6.K(b8).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b5),a8,a8,a8,1.1,a8,a8,a8,a8,h*0.08)],c4),C.t,C.A,C.a_)
+e=T.eO(M.as(a8,T.fF(C.aB,H.b([T.ht(a8,V.qO(M.as(a8,a8,C.i,new P.n(a9),a8,a8,a8,c1*0.45,new V.aS(2.75,2.75,2.75,2.75),a8,a8,a8,h*0.66),new P.n(b5),a8,a8),a8,a8,50,20,50,a8),M.as(a8,U.RP(C.ck,new L.jl("images/pic1.jpg")),C.i,a8,a8,a8,a8,f,a8,a8,a8,a8,e),M.as(a8,a8,C.i,P.ae(C.d.an(127.5),97,249,213),a8,a8,a8,f,a8,a8,a8,a8,e)],c5),C.ar),C.i,a8,a8,a8,a8,c1*0.6,a8,a8,a8,a8,h*0.7),a8,a8)
+f=T.dm(H.b([new X.be("02.",20,new P.n(b5),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("Where I've Worked",26,new P.n(b3),a8,C.Q,a8),T.aq(a8,a8,c7.K(b9).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b6),a8,a8,a8,1.1,a8,a8,a8,a8,h*0.08)],c5),C.t,C.A,C.a_)
 d=T.aq(a8,g,a8)
-c=T.dm(H.b([new X.be("03.",20,new P.n(b4),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("Some Things I've Built",26,new P.n(b2),a8,C.Q,a8),T.aq(a8,a8,c6.K(b8).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b5),a8,a8,a8,1.1,a8,a8,a8,a8,h*0.04)],c4),C.t,C.A,C.a_)
+c=T.dm(H.b([new X.be("03.",20,new P.n(b5),a8,C.Q,a8),T.aq(a8,a8,12),new X.be("Some Things I've Built",26,new P.n(b3),a8,C.Q,a8),T.aq(a8,a8,c7.K(b9).f.a.a*0.01),M.as(a8,a8,C.i,new P.n(b6),a8,a8,a8,1.1,a8,a8,a8,a8,h*0.04)],c5),C.t,C.A,C.a_)
 b=T.aq(a8,g,a8)
 a=T.aq(a8,g,a8)
 a0=T.aq(a8,g,a8)
 a1=T.aq(a8,g,a8)
 a2=T.aq(a8,16,a8)
 q=T.aq(a8,q,a8)
-a3=T.kl(C.ed,H.b([L.ck(u.Z,a8,a8,A.cl(a8,a8,P.ae(102,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,16,a8,a8,a8,a8,!0,a8,0.75,a8,a8,a8,a8,a8),C.bg,a8)],c4))
+a3=T.kl(C.ed,H.b([L.ck(u.Z,a8,a8,A.cl(a8,a8,P.ae(102,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,16,a8,a8,a8,a8,!0,a8,0.75,a8,a8,a8,a8,a8),C.bg,a8)],c5))
 a4=T.aq(a8,g,a8)
 a5=K.eL(6)
 a6=K.eL(6)
-h=T.ac2(M.as(C.F,T.cf(H.b([new X.be("0.4 What's Next?",16,new P.n(b1),3,a8,a8),a2,new X.be(b3,42,C.k,3,C.Q,a8),q,a3,a4,V.qO(M.as(C.F,new T.bz(C.bA,L.ck("Say Hello",a8,a8,A.cl(a8,a8,new P.n(b0),a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8),C.i,a8,a8,new S.cn(new P.n(a9),a8,a8,a6,a8,a8,C.P),a8,c0*0.1,new V.aS(0.85,0.85,0.85,0.85),a8,a8,a8,h*0.3),new P.n(b0),4,new X.cE(a5,C.q))],c4),C.t,C.ft),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h),C.ck)
+h=T.ac2(M.as(C.F,T.cf(H.b([new X.be("0.4 What's Next?",16,new P.n(b2),3,a8,a8),a2,new X.be(b4,42,C.k,3,C.Q,a8),q,a3,a4,V.qO(M.as(C.F,new T.bz(C.bA,L.ck("Say Hello",a8,a8,A.cl(a8,a8,new P.n(b1),a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,!0,a8,a8,a8,a8,a8,a8,a8),a8,a8),a8),C.i,a8,a8,new S.cn(new P.n(a9),a8,a8,a6,a8,a8,C.P),a8,c1*0.1,new V.aS(0.85,0.85,0.85,0.85),a8,a8,a8,h*0.3),new P.n(b1),4,new X.cE(a5,C.q))],c5),C.t,C.ft),C.i,a8,a8,a8,a8,a8,a8,a8,a8,a8,h),C.ck)
 a5=T.aq(a8,g,a8)
-c0=T.dm(H.b([B.cM(a8,L.dk(C.iv,C.k,a8,15),24,new L.a2E(b7),a8),B.cM(a8,L.dk(C.iw,C.k,a8,15),24,new L.a2G(b7),a8),B.cM(a8,L.dk(C.iB,C.k,a8,15),24,new L.a2H(b7),a8),B.cM(a8,L.dk(C.f1,C.k,a8,15),24,new L.a2I(b7),a8),B.cM(a8,L.dk(C.iu,C.k,a8,15),24,new L.a2J(b7),a8),B.cM(a8,L.dk(C.ix,C.k,a8,15),24,new L.a2K(b7),a8),B.cM(a8,L.dk(C.iD,C.k,a8,15),24,new L.a2L(b7),a8)],c4),C.t,C.bq,C.a_)
+c1=T.dm(H.b([B.cM(a8,L.dk(C.iv,C.k,a8,15),24,new L.a2E(b8),a8),B.cM(a8,L.dk(C.iw,C.k,a8,15),24,new L.a2G(b8),a8),B.cM(a8,L.dk(C.iB,C.k,a8,15),24,new L.a2H(b8),a8),B.cM(a8,L.dk(C.f1,C.k,a8,15),24,new L.a2I(b8),a8),B.cM(a8,L.dk(C.iu,C.k,a8,15),24,new L.a2J(b8),a8),B.cM(a8,L.dk(C.ix,C.k,a8,15),24,new L.a2K(b8),a8),B.cM(a8,L.dk(C.iD,C.k,a8,15),24,new L.a2L(b8),a8)],c5),C.t,C.bq,C.a_)
 g=T.aq(a8,g,a8)
-a6=c6.K(b8).f
-b8=c6.K(b8).f
-return M.ads(new E.qv(c2,0,new P.n(a9),new P.M(1/0,56),a8),new P.n(a9),E.adz(new T.bz(C.b2,T.cf(H.b([s,new X.be("Hi, my name is",16,new P.n(b1),3,a8,a8),r,new X.be("Suvi Shahoyi.",52,new P.n(b2),a8,C.dq,a8),p,new X.be("I build and design things for the Android.",42,o,a8,C.Q,a8),n,new T.bz(C.bA,m,a8),k,j,i,l,c1,e,f,new B.tu(a8),d,c,b,new B.nW(new L.a2M(),"images/pic9.PNG",a8),a,new B.nW(new L.a2N(),"images/pic2.PNG",a8),a0,new B.nW(new L.a2F(),"images/pic33.png",a8),a1,h,a5,c0,g,M.as(C.F,L.ck("Designed & Built by Suvi Shahoyi \ud83d\udc99 Flutter",a8,a8,A.cl(a8,a8,P.ae(102,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,14,a8,a8,a8,a8,!0,a8,1.75,a8,a8,a8,a8,a8),C.bg,a8),C.i,a8,a8,a8,a8,a6.a.b/6,a8,a8,a8,a8,b8.a.a)],c4),C.b_,C.A),a8),a8,C.ah,a8,a8,C.o),new Z.AH(6,c3,a8))}}
+a6=c7.K(b9).f
+b9=c7.K(b9).f
+return M.ads(new E.qv(c3,0,new P.n(a9),new P.M(1/0,56),a8),new P.n(a9),E.adz(new T.bz(C.b2,T.cf(H.b([s,new X.be("Hi, my name is",16,new P.n(b2),3,a8,a8),r,new X.be(b0,52,new P.n(b3),a8,C.dq,a8),p,new X.be("I build and design things for the Android.",42,o,a8,C.Q,a8),n,new T.bz(C.bA,m,a8),k,j,i,l,c2,e,f,new B.tu(a8),d,c,b,new B.nW(new L.a2M(),"images/pic9.PNG",a8),a,new B.nW(new L.a2N(),"images/pic2.PNG",a8),a0,new B.nW(new L.a2F(),"images/pic33.png",a8),a1,h,a5,c1,g,M.as(C.F,L.ck("Designed & Built by Suvi Shahoyi \ud83d\udc99 Flutter",a8,a8,A.cl(a8,a8,P.ae(102,255,255,255),a8,a8,a8,a8,a8,a8,a8,a8,14,a8,a8,a8,a8,!0,a8,1.75,a8,a8,a8,a8,a8),C.bg,a8),C.i,a8,a8,a8,a8,a6.a.b/6,a8,a8,a8,a8,b9.a.a)],c5),C.b_,C.A),a8),a8,C.ah,a8,a8,C.o),new Z.AH(6,c4,a8))}}
 L.a2C.prototype={
 $0:function(){},
 $C:"$0",
