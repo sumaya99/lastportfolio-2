@@ -48,7 +48,7 @@ class _MobileHomeState extends State<MobileHome> {
                   currentAccountPicture: CircleAvatar(
                     child: Icon(Icons.person),
                   ),
-                  accountName: Text("Suvi Shahoyi"),
+                  accountName: Text("Sumaya Mohammed"),
                   accountEmail: Text("sumaya.shahoyi@gmail.com")),
               ListTile(
                 title: Text("Share"),
