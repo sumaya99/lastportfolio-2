@@ -78,7 +78,7 @@ class _MobileWorkState extends State<MobileWork> {
               Expanded(
                   flex: 4,
                   child: Container(
-                    height: size.height * 1.7,
+                    height: size.height * 1.2,
                     child: MobileWorkBox(),
                   ))
             ],

@@ -243,7 +243,7 @@ class _MobileHomeState extends State<MobileHome> {
                       Container(
                         width: size.width,
                         alignment: Alignment.center,
-                        child: Row(
+                        child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
                           children: [
                             Column(
@@ -255,6 +255,9 @@ class _MobileHomeState extends State<MobileHome> {
                                 technology(context, "Firebase"),
                                 technology(context, "UI/UX (Adobe XD)"),
                               ],
+                            ),
+                            SizedBox(
+                              height: 15,
                             ),
                             Column(
                               children: [
