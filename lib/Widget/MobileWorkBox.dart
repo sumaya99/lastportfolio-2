@@ -26,6 +26,7 @@ class MobileWorkBox extends StatelessWidget {
               "Graphic Designer and experienced programmer with an extensive history of designing and coding . ",
           duration: "sep - 2020 to apr - 2021",
         ),
+
         // WorkCustomData(
         //   title: "Mentor at Contributor's Hack, 2020",
         //   subTitle:
