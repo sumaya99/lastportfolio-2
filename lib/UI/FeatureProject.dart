@@ -4,6 +4,7 @@ import 'package:potrtfolio/Widget/CustomText.dart';
 
 class FeatureProject extends StatelessWidget {
   final String imagePath;
+  final Function urlxd;
   final String projectTitle;
   final String projectDesc;
   final String tech1;
@@ -13,6 +14,7 @@ class FeatureProject extends StatelessWidget {
 
   FeatureProject(
       {this.imagePath,
+      this.urlxd,
       this.ontab,
       this.projectDesc,
       this.projectTitle,
@@ -42,9 +44,12 @@ class FeatureProject extends StatelessWidget {
                     height: size.height * 0.60,
                     width: size.width * 0.5,
                     //color: Colors.redAccent,
-                    child: Image(
-                      fit: BoxFit.contain,
-                      image: AssetImage(imagePath),
+                    child: InkWell(
+                      onTap: urlxd,
+                      child: Image(
+                        fit: BoxFit.contain,
+                        image: AssetImage(imagePath),
+                      ),
                     ),
                   ),
                 ),

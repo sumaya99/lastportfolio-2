@@ -292,7 +292,7 @@ class _HomePageState extends State<HomePage> {
                                   ),
                                   CustomText(
                                     text:
-                                        "I design and build things for the Android.",
+                                        "I'M A UI/UX Designer , I design and build things for Mobile App.",
                                     textsize: 56.0,
                                     color: Color(0xffCCD6F6).withOpacity(0.6),
                                     fontWeight: FontWeight.w700,
@@ -382,25 +382,33 @@ class _HomePageState extends State<HomePage> {
                                         height: size.height * 0.04,
                                       ),
                                       FeatureProject(
-                                        imagePath: "images/pic9.PNG",
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/e343a736-6865-408e-867c-2ec826a53dc6-b610/");
+                                        },
+                                        imagePath: "images/1.jpg",
                                         ontab: () {
                                           method.launchURL(
-                                              "https://www.behance.net/suvishahoyie");
+                                              "https://xd.adobe.com/view/e343a736-6865-408e-867c-2ec826a53dc6-b610/");
                                         },
                                         projectDesc:
-                                            "A Mobile app for both Android and IOS. View your Profile , companys profile post job apply for job search for job. This project was for University research to Learn designing UI/UX and Flutter complex UI Design.",
+                                            "A Mobile app UI/UX Design for both Android and IOS. it's about finding Jobs/hiring employee the user can apply for job search for a job and view the company profile , also a job provider can see job seeker profile , with notification and saved feature. This project was for University research to Learn designing UI/UX and Flutter complex UI Design.",
                                         projectTitle:
                                             "Dozar App for finding job/hiring employee",
-                                        tech1: "Flutter",
-                                        tech2: "Dart",
-                                        tech3: "Adobe XD",
+                                        tech1: "Adobe XD",
+                                        tech2: "Flutter",
+                                        tech3: "Dart",
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/pic2.PNG",
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/2403ebd0-d038-44d5-8df5-e2034dc426fb-7150/");
+                                        },
+                                        imagePath: "images/2.jpg",
                                         ontab: () {
                                           method.launchURL(
-                                              "https://www.behance.net/suvishahoyi");
+                                              "https://xd.adobe.com/view/2403ebd0-d038-44d5-8df5-e2034dc426fb-7150/");
                                         },
                                         projectDesc:
                                             "A TODO application using Adobe XD to design and Flutter and mysql, User can track their daily todos and use a timer to tick them off.",
@@ -411,7 +419,11 @@ class _HomePageState extends State<HomePage> {
                                       ),
 
                                       FeatureProject(
-                                        imagePath: "images/pic33.png",
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/2403ebd0-d038-44d5-8df5-e2034dc426fb-7150/");
+                                        },
+                                        imagePath: "images/3.jpg",
                                         ontab: () {
                                           method.launchURL(
                                               "https://www.behance.net/suvishahoyi");
@@ -419,58 +431,66 @@ class _HomePageState extends State<HomePage> {
                                         projectDesc:
                                             "A mob application designed in Adobe XD Using movies API, to show more than 5k+ movies trailer and their details . User can Search any movies.",
                                         projectTitle: "Movies",
-                                        tech1: "Dart",
-                                        tech2: "Flutter",
+                                        tech1: "Adobe XD",
+                                        tech2: "Dart , Flutter",
                                         tech3: "API",
                                       ),
 
-                                      // FeatureProject(
-                                      //   imagePath: "images/pic4.jpg",
-                                      //   ontab: () {
-                                      //     method.launchURL(
-                                      //         "https://github.com/champ96k/coronavirus-tracker-app");
-                                      //   },
-                                      //   projectDesc:
-                                      //       "A Flutter app to track Coronavirus outbreak, Current statistics of global total confirmed, deaths, recovered cases, Health news, coronavirus safety information and many more.",
-                                      //   projectTitle: "Covid19 Tracker",
-                                      //   tech1: "Dart",
-                                      //   tech2: "Flutter",
-                                      //   tech3: "API",
-                                      // ),
-                                      // //ff
-                                      // FeatureProject(
-                                      //   imagePath: "images/pic5.jpg",
-                                      //   ontab: () {
-                                      //     method.launchURL(
-                                      //         "https://github.com/champ96k/Gender-Predictor-Flutter-App");
-                                      //   },
-                                      //   projectDesc:
-                                      //       "In this app you can predict the gender with the help of name and probability of that name.",
-                                      //   projectTitle: "Gender Predictor",
-                                      //   tech1: "Dart",
-                                      //   tech2: "Flutter",
-                                      //   tech3: "API",
-                                      // ),
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/d07d0ed9-ec60-4978-82af-027f2f6ade5f-852e/");
+                                        },
+                                        imagePath: "images/4.jpg",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/d07d0ed9-ec60-4978-82af-027f2f6ade5f-852e/");
+                                        },
+                                        projectDesc:
+                                            "A Weather App Ui Design Concept to change the view accourding to the time",
+                                        projectTitle: "Weather App",
+                                        tech1: "Adobe XD",
+                                      ),
+                                      //ff
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/d283229a-b6b6-4109-a125-1b5f3d7f6189-87d0/");
+                                        },
+                                        imagePath: "images/5.jpg",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/d283229a-b6b6-4109-a125-1b5f3d7f6189-87d0/");
+                                        },
+                                        projectDesc:
+                                            "The landing page is just a simple static web page which will allow the user to learn more about the system. ",
+                                        projectTitle: "Web Landing Page",
+                                        tech1: "Adobe XD",
+                                      ),
 
-                                      // FeatureProject(
-                                      //   imagePath: "images/pic6.jpg",
-                                      //   ontab: () {
-                                      //     method.launchURL(
-                                      //         "https://github.com/champ96k/News-Hours-Apps-Using-Rest-API");
-                                      //   },
-                                      //   projectDesc:
-                                      //       "complete news Application using rest API API link- https://newsapi.org, you can get all news.",
-                                      //   projectTitle: "News Hour",
-                                      //   tech1: "Dart",
-                                      //   tech2: "Flutter",
-                                      //   tech3: "API",
-                                      // ),
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
+                                        },
+                                        imagePath: "images/6.jpg",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
+                                        },
+                                        projectDesc:
+                                            "A responsive web Design Portfolio for myself",
+                                        projectTitle: "Responsive Portfolio",
+                                        tech1: "Adobe XD",
+                                        tech2: "Flutter",
+                                        tech3: "Dart",
+                                      ),
 
                                       // FeatureProject(
                                       //   imagePath: "images/pic7.jpg",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-wallpaper-App-using-Firebase");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "Flutter Wallpaper application using firebase as a backend with a cool animation, it show the all images that are store in firebase firestore.",
@@ -484,7 +504,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic8.jpg",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-Weather-Application");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "Weather app. This weather app is one of best free weather apps with full features: Local weather, weather map (weather map service) and weather widgets. Widgets for Android: The weather radar widget free and clock widget weather with beautiful style.",
@@ -498,7 +518,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic10.jpg",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://pub.dev/packages/flutter_onboarding_screen");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A flutter package which help developer in creating a onboarding screens of their app.",
@@ -513,7 +533,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic11.jpg",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-Neumorphic-Calculator-UI");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "To explore the flutter Neumorphic design",
@@ -743,7 +763,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic102.gif",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-Web-SolMusic-Landing-Page");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -757,7 +777,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic104.png",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-UI-Kit");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -771,7 +791,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic105.png",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-UI-Kit");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -785,7 +805,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic106.png",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flowers-Shop-Mobile-App-Store");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -799,7 +819,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic107.jfif",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Food-Delivery-App-UI");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -813,7 +833,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic108.jfif",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-Plant-Shop-UI-Design");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -827,7 +847,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic109.jfif",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Foody-App-UI-Design");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -841,7 +861,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic110.jfif",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Flutter-Online-Food-Order-App-UI");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -855,7 +875,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic501.png",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Ganpati-Bappa-");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -869,7 +889,7 @@ class _HomePageState extends State<HomePage> {
                                       //   imagePath: "images/pic506.png",
                                       //   ontab: () {
                                       //     method.launchURL(
-                                      //         "https://github.com/champ96k/Netflix-Web-Clone-Using-Flutter");
+                                      //         "https://xd.adobe.com/view/704bffcf-afce-4ee2-af1f-97c6ecd0f0bd-2518/");
                                       //   },
                                       //   projectDesc:
                                       //       "A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.",
@@ -986,7 +1006,7 @@ class _HomePageState extends State<HomePage> {
                                           100,
                                       //color: Colors.white,
                                       child: Text(
-                                        "Designed & Built by Sumaya Shahoyi 💙 Flutter",
+                                        "Designed & Built by Suvi Shahoyi 💙 Flutter",
                                         style: TextStyle(
                                           color: Colors.white.withOpacity(0.4),
                                           letterSpacing: 1.75,

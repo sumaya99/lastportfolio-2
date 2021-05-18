@@ -40,29 +40,29 @@ class _MobileHomeState extends State<MobileHome> {
     final Size size = MediaQuery.of(context).size;
     return Scaffold(
       backgroundColor: Color(0xff0A192F),
-      endDrawer: Drawer(
-          elevation: 6.0,
-          child: Column(
-            children: [
-              UserAccountsDrawerHeader(
-                  currentAccountPicture: CircleAvatar(
-                    child: Icon(Icons.person),
-                  ),
-                  accountName: Text("Sumaya Mohammed"),
-                  accountEmail: Text("sumaya.shahoyi@gmail.com")),
-              ListTile(
-                title: Text("Share"),
-                leading: Icon(Icons.share),
-              ),
-              ListTile(
-                leading: Icon(Icons.group),
-                title: Text("About"),
-              ),
-              Expanded(
-                child: Text("Version 1.0.1"),
-              )
-            ],
-          )),
+      // endDrawer: Drawer(
+      //     elevation: 6.0,
+      //     child: Column(
+      //       children: [
+      //         UserAccountsDrawerHeader(
+      //             currentAccountPicture: CircleAvatar(
+      //               child: Icon(Icons.person),
+      //             ),
+      //             accountName: Text("Sumaya Mohammed"),
+      //             accountEmail: Text("sumaya.shahoyi@gmail.com")),
+      //         ListTile(
+      //           title: Text("Share"),
+      //           leading: Icon(Icons.share),
+      //         ),
+      //         ListTile(
+      //           leading: Icon(Icons.group),
+      //           title: Text("About"),
+      //         ),
+      //         Expanded(
+      //           child: Text("Version 1.0.1"),
+      //         )
+      //       ],
+      //     )),
       appBar: AppBar(
         backgroundColor: Color(0xff0A192F),
         elevation: 0.0,
@@ -104,7 +104,8 @@ class _MobileHomeState extends State<MobileHome> {
                 height: size.height * 0.04,
               ),
               CustomText(
-                text: "I build and design things for the Android.",
+                text:
+                    "I'M A UI/UX Designer , I design and build things for Mobile App.",
                 textsize: 42.0,
                 color: Color(0xffCCD6F6).withOpacity(0.6),
                 fontWeight: FontWeight.w700,
@@ -250,10 +251,10 @@ class _MobileHomeState extends State<MobileHome> {
                               crossAxisAlignment: CrossAxisAlignment.start,
                               mainAxisAlignment: MainAxisAlignment.spaceAround,
                               children: [
-                                technology(context, "Dart"),
-                                technology(context, "Flutter"),
-                                technology(context, "Firebase"),
                                 technology(context, "UI/UX (Adobe XD)"),
+                                technology(context, "2d Animation"),
+                                technology(context, "Dart/Flutter"),
+                                technology(context, "Firebase"),
                               ],
                             ),
                             SizedBox(
@@ -393,7 +394,7 @@ class _MobileHomeState extends State<MobileHome> {
 
               MobileProject(
                 ontab: () {},
-                image: "images/pic9.PNG",
+                image: "images/1.jpg",
               ),
 
               SizedBox(
@@ -402,7 +403,7 @@ class _MobileHomeState extends State<MobileHome> {
 
               MobileProject(
                 ontab: () {},
-                image: "images/pic2.PNG",
+                image: "images/2.jpg",
               ),
 
               SizedBox(
@@ -411,35 +412,39 @@ class _MobileHomeState extends State<MobileHome> {
 
               MobileProject(
                 ontab: () {},
-                image: "images/pic33.png",
+                image: "images/3.jpg",
               ),
 
               SizedBox(
                 height: size.height * 0.07,
               ),
 
-              // MobileProject(
-              //   ontab: () {},
-              //   image: "images/pic4.jpg",
-              // ),
+              MobileProject(
+                ontab: () {},
+                image: "images/4.jpg",
+              ),
 
-              // SizedBox(
-              //   height: size.height * 0.07,
-              // ),
+              SizedBox(
+                height: size.height * 0.07,
+              ),
 
-              // MobileProject(
-              //   ontab: () {},
-              //   image: "images/pic5.jpg",
-              // ),
+              MobileProject(
+                ontab: () {},
+                image: "images/5.jpg",
+              ),
 
-              // SizedBox(
-              //   height: size.height * 0.07,
-              // ),
+              SizedBox(
+                height: size.height * 0.07,
+              ),
 
-              // MobileProject(
-              //   ontab: () {},
-              //   image: "images/pic6.jpg",
-              // ),
+              MobileProject(
+                ontab: () {},
+                image: "images/6.jpg",
+              ),
+
+              SizedBox(
+                height: size.height * 0.07,
+              ),
 
               // SizedBox(
               //   height: size.height * 0.07,

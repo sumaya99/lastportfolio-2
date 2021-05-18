@@ -3,9 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bfce4bdc0dd0c6b768463c28559b0048",
+  "assets/AssetManifest.json": "b86ab44e5c418f0f4c3fc30a9c0f141b",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/images/1.jpg": "fc4a17c6466b01276d6444fb792986bb",
+"assets/images/2.jpg": "63b81ad811d13a5bae15be944153d7d4",
+"assets/images/3.jpg": "91bd79c55adb2b3c4307fca8d07db8fd",
+"assets/images/4.jpg": "e215ba705b85bf0cc8a006e50fd510e6",
+"assets/images/5.jpg": "e1aa0c65afb4743b8daa140dd8aa8795",
+"assets/images/6.jpg": "e7f7f4b5d09d9e9cf35e7b7134157573",
 "assets/images/BIODATA.pdf": "0098a2c4f561807c9f0064ccb22dd185",
 "assets/images/deedy_resume.pdf": "7abb4d1961631143d23600178b3cb8f5",
 "assets/images/pic1.jpg": "80647143bfa9c3a02298f45895e0d29a",
@@ -20,9 +26,9 @@ const RESOURCES = {
 "favicon.png": "cec06261144dd5f33864440510a04c82",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9a1cdec326bcea29e16ee5d7d59df187",
-"/": "9a1cdec326bcea29e16ee5d7d59df187",
-"main.dart.js": "1f1e2f1ce13b750d587f86d32e1b4375",
+"index.html": "016502472797b7ab311cfa1311c30491",
+"/": "016502472797b7ab311cfa1311c30491",
+"main.dart.js": "7031e3ed648464fffff1d5c28a4e9ac4",
 "manifest.json": "71f434e08409bbbd40da5e41eea58e2c",
 "version.json": "899e23a26fc3de6f9e2fd02ba0c9d9f8"
 };
