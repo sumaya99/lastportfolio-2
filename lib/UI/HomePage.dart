@@ -300,7 +300,7 @@ class _HomePageState extends State<HomePage> {
                                   ),
                                   CustomText(
                                     text:
-                                        "I'M A UI/UX Designer , I design and build things for Mobile App.",
+                                        "UI/UX Designer , I design and build things for Mobile App.",
                                     textsize: 56.0,
                                     color: Color(0xffCCD6F6).withOpacity(0.6),
                                     fontWeight: FontWeight.w700,
