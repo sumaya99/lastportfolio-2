@@ -66,14 +66,14 @@ class _MobileHomeState extends State<MobileHome> {
       appBar: AppBar(
         backgroundColor: Color(0xff0A192F),
         elevation: 0.0,
-        title: IconButton(
-          icon: Icon(
-            Icons.change_history,
-            size: 32.0,
-            color: Color(0xff64FFDA),
-          ),
-          onPressed: () {},
-        ),
+        // title: IconButton(
+        //   icon: Icon(
+        //     Icons.change_history,
+        //     size: 32.0,
+        //     color: Color(0xff64FFDA),
+        //   ),
+        //   onPressed: () {},
+        // ),
       ),
       body: SingleChildScrollView(
         child: Padding(

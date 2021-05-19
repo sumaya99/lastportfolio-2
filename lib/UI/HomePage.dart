@@ -88,13 +88,13 @@ class _HomePageState extends State<HomePage> {
                   padding: const EdgeInsets.symmetric(horizontal: 16.0),
                   child: Row(
                     children: [
-                      IconButton(
-                          icon: Icon(
-                            Icons.change_history,
-                            size: 32.0,
-                            color: Color(0xff64FFDA),
-                          ),
-                          onPressed: () {}),
+                      // IconButton(
+                      //     icon: Icon(
+                      //       Icons.change_history,
+                      //       size: 32.0,
+                      //       color: Color(0xff64FFDA),
+                      //     ),
+                      //     onPressed: () {}),
                       Spacer(),
                       Expanded(
                         child: Padding(
