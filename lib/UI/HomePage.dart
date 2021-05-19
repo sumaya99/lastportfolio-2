@@ -155,14 +155,22 @@ class _HomePageState extends State<HomePage> {
                                 method.launchURL(
                                     "https://www.behance.net/suvishahoyi");
                               },
-                              child: Padding(
-                                padding: const EdgeInsets.symmetric(
-                                  horizontal: 8.0,
-                                ),
-                                child: Text(
-                                  "Resume",
-                                  style: TextStyle(
-                                    color: Color(0xff64FFDA),
+                              // ignore: deprecated_member_use
+                              child: FlatButton(
+                                hoverColor: Color(0xFF3E0449),
+                                onPressed: () {
+                                  method.launchURL(
+                                      "https://drive.google.com/file/d/1osiaNOQrb8ObOh92Ik0yCw7qUzqYCRWZ/view?usp=sharing");
+                                },
+                                child: Padding(
+                                  padding: const EdgeInsets.symmetric(
+                                    horizontal: 8.0,
+                                  ),
+                                  child: Text(
+                                    "Resume",
+                                    style: TextStyle(
+                                      color: Color(0xff64FFDA),
+                                    ),
                                   ),
                                 ),
                               ),
