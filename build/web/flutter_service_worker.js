@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/images/pic33.png": "75959035f8480a9a1af107829f499552",
 "assets/images/pic9.PNG": "90d806847d18698c6a4c01be9cb3c378",
 "assets/images/Suvi's%20Resume.pdf": "f74c9e99510599e788e59a4a16125a8b",
-"assets/NOTICES": "da9a701d2245004953339f07d4be30d4",
+"assets/NOTICES": "31dc026685174a00ca91f73cd5032dee",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
@@ -25,9 +25,9 @@ const RESOURCES = {
 "favicon.png": "cec06261144dd5f33864440510a04c82",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "527c93bf87367e31bad0bfdaec304b8e",
-"/": "527c93bf87367e31bad0bfdaec304b8e",
-"main.dart.js": "e4cf95a929d6618ae1dbd42c4ad8667a",
+"index.html": "432144f39b0ac4a84d9ab9995bd00515",
+"/": "432144f39b0ac4a84d9ab9995bd00515",
+"main.dart.js": "ec528bf47389fbc3f01c89915123d43a",
 "manifest.json": "71f434e08409bbbd40da5e41eea58e2c",
 "version.json": "899e23a26fc3de6f9e2fd02ba0c9d9f8"
 };
