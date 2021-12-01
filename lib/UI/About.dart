@@ -84,7 +84,7 @@ class About extends StatelessWidget {
                     ),
                     CustomText(
                       text:
-                          "Shortly currently, I am purshuing my Bachlor's degree in Software Engineering at Salahaddin University, as well as doing freelancing where I work on a wide variety of interesting and meaningful projects on a daily basis.\n\n",
+                          "I have Bachelor's degree in Software Engineering at Salahaddin University, as well as doing freelancing where I work on a wide variety of interesting and meaningful projects on a daily basis.\n\n",
                       textsize: 16.0,
                       color: Color(0xff828DAA),
                       letterSpacing: 0.75,
