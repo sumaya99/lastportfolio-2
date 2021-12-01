@@ -17,7 +17,7 @@ class WorkBox extends StatelessWidget {
         WorkCustomData(
           title: "UI/UX Designer ",
           subTitle:
-              "currently Working as a UI/UX Designer \nat at Lucid Source",
+              "currently Working as a UI/UX Designer \nat at Lucid Source , full-time office",
           duration: "2021 - precent",
         ),
         WorkCustomData(
