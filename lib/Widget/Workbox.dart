@@ -9,10 +9,16 @@ class WorkBox extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         WorkCustomData(
-          title: "Student Of  Software Engineering ",
+          title: "Software Engineer ",
           subTitle:
-              "I am currently pursuing Bachelor's Degree in Software Engineering \nat in Salahaddin University",
-          duration: "2017 - Present",
+              "Bachelor's Degree in Software Engineering \nat in Salahaddin University",
+          duration: "2017 - 2021",
+        ),
+        WorkCustomData(
+          title: "UI/UX Designer ",
+          subTitle:
+              "currently Working as a UI/UX Designer \nat at Lucid Source",
+          duration: "2021 - precent",
         ),
         WorkCustomData(
           title: "web Development Bootcamp",

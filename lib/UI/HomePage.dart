@@ -160,7 +160,7 @@ class _HomePageState extends State<HomePage> {
                                 hoverColor: Color(0xFF3E0449),
                                 onPressed: () {
                                   method.launchURL(
-                                      "https://drive.google.com/file/d/1s4tFTA5Yqek6Smg_gKLX88VzehT1uWRn/view?usp=sharing");
+                                      "https://drive.google.com/file/d/1QYDrKRPMsHinpIJ8YxyLpAnnaAo9c5AG/view?usp=sharing");
                                 },
                                 child: Padding(
                                   padding: const EdgeInsets.symmetric(
@@ -199,6 +199,14 @@ class _HomePageState extends State<HomePage> {
                             onPressed: () {
                               method
                                   .launchURL("https://instagram.com/savah.des");
+                            }),
+                            IconButton(
+                            icon: FaIcon(FontAwesomeIcons.medium),
+                            color: Color(0xffffA8B2D1),
+                            iconSize: 16.0,
+                            onPressed: () {
+                              method
+                                  .launchURL("https://medium.com/@suvi.shahoyi");
                             }),
                         IconButton(
                             icon: FaIcon(FontAwesomeIcons.behance),

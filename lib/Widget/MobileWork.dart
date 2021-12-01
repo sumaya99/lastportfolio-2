@@ -50,6 +50,11 @@ class _MobileWorkState extends State<MobileWork> {
                                     color: Colors.white),
                               ),
                               CircleAvatar(
+                                backgroundColor: Colors.brown,
+                                child: FaIcon(FontAwesomeIcons.laptopCode,
+                                    color: Colors.white),
+                              ),
+                              CircleAvatar(
                                 backgroundColor: Colors.red,
                                 child: FaIcon(FontAwesomeIcons.freeCodeCamp,
                                     color: Colors.white),

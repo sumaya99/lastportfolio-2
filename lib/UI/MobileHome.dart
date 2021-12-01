@@ -799,6 +799,16 @@ class _MobileHomeState extends State<MobileHome> {
                   ),
                   IconButton(
                     icon: Icon(
+                      FontAwesomeIcons.medium,
+                      color: Colors.white,
+                      size: 15.0,
+                    ),
+                    onPressed: () {
+                      method.launchURL("https://medium.com/@suvi.shahoyi");
+                    },
+                  ),
+                  IconButton(
+                    icon: Icon(
                       FontAwesomeIcons.behance,
                       color: Colors.white,
                       size: 15.0,

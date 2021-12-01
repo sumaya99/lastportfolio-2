@@ -79,6 +79,11 @@ class _WorkState extends State<Work> {
                                     color: Colors.white),
                               ),
                               CircleAvatar(
+                                backgroundColor: Colors.brown,
+                                child: FaIcon(FontAwesomeIcons.laptopCode,
+                                    color: Colors.white),
+                              ),
+                              CircleAvatar(
                                 backgroundColor: Colors.red,
                                 child: FaIcon(FontAwesomeIcons.freeCodeCamp,
                                     color: Colors.white),
