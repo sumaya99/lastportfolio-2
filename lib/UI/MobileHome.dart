@@ -869,7 +869,7 @@ class _MobileHomeState extends State<MobileHome> {
                       size: 15.0,
                     ),
                     onPressed: () {
-                      method.launchURL("https://instagram.com/savah.des");
+                      method.launchURL("https://instagram.com/suvii.ai");
                     },
                   ),
                   IconButton(
