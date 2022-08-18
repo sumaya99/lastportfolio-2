@@ -394,6 +394,81 @@ class _MobileHomeState extends State<MobileHome> {
 
               MobileProject(
                 ontab: () {},
+                image: "images/kulshi.jpg",
+              ),
+              MobileProject(
+                ontab: () {},
+                image: "images/aqarati.PNG",
+              ),
+              SizedBox(
+                height: size.height * 0.07,
+              ),
+
+              MobileProject(
+                ontab: () {},
+                image: "images/hitex.PNG",
+              ),
+
+              SizedBox(
+                height: size.height * 0.07,
+              ),
+
+              MobileProject(
+                ontab: () {},
+                image: "images/miran.PNG",
+              ),
+
+              SizedBox(
+                height: size.height * 0.07,
+              ),
+
+              // MobileProject(
+              //   ontab: () {},
+              //   image: "images/lalav.jpg",
+              // ),
+
+              // SizedBox(
+              //   height: size.height * 0.07,
+              // ),
+
+              // MobileProject(
+              //   ontab: () {},
+              //   image: "images/alaqarati.jpg",
+              // ),
+
+              // SizedBox(
+              //   height: size.height * 0.07,
+              // ),
+
+              // MobileProject(
+              //   ontab: () {},
+              //   image: "images/hillstone.jpg",
+              // ),
+
+              // SizedBox(
+              //   height: size.height * 0.07,
+              // ),
+
+              // MobileProject(
+              //   ontab: () {},
+              //   image: "images/alaqaratisystem.jpg",
+              // ),
+
+              // SizedBox(
+              //   height: size.height * 0.07,
+              // ),
+
+              // MobileProject(
+              //   ontab: () {},
+              //   image: "images/lezzooapp.jpg",
+              // ),
+
+              // SizedBox(
+              //   height: size.height * 0.07,
+              // ),
+
+              MobileProject(
+                ontab: () {},
                 image: "images/1.jpg",
               ),
 

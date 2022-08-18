@@ -200,13 +200,13 @@ class _HomePageState extends State<HomePage> {
                               method
                                   .launchURL("https://instagram.com/savah.des");
                             }),
-                            IconButton(
+                        IconButton(
                             icon: FaIcon(FontAwesomeIcons.medium),
                             color: Color(0xffffA8B2D1),
                             iconSize: 16.0,
                             onPressed: () {
-                              method
-                                  .launchURL("https://medium.com/@suvi.shahoyi");
+                              method.launchURL(
+                                  "https://medium.com/@suvi.shahoyi");
                             }),
                         IconButton(
                             icon: FaIcon(FontAwesomeIcons.behance),
@@ -397,6 +397,75 @@ class _HomePageState extends State<HomePage> {
                                       SizedBox(
                                         height: size.height * 0.04,
                                       ),
+
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150694959/Kulshi-online-UIUX-Design-E-commerce");
+                                        },
+                                        imagePath: "images/kulshi.jpg",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150694959/Kulshi-online-UIUX-Design-E-commerce");
+                                        },
+                                        projectDesc:
+                                            "Kulshi Online is an easy-to-use and trusted online marketplace in Iraq. where you can make a profit by selling your items/products or find great deals on items you want to buy.",
+                                        projectTitle:
+                                            "Kulshi is an E-commerce website and mobile app",
+                                        tech1: "Adobe XD",
+                                      ),
+
+                                      // FeatureProject(
+                                      //   urlxd: () {
+                                      //     method
+                                      //         .launchURL("https://hitex.tech/");
+                                      //   },
+                                      //   imagePath: "images/hitex.PNG",
+                                      //   ontab: () {
+                                      //     method
+                                      //         .launchURL("https://hitex.tech/");
+                                      //   },
+                                      //   projectDesc:
+                                      //       "a web app UI/UX Design , HITEX is a technology exhibition that offers digitization and futuristic technology that you will have a chance to engage with..",
+                                      //   projectTitle:
+                                      //       "HITEX is a technology exhibition website and web app",
+                                      //   tech1: "Adobe XD",
+                                      // ),
+
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150538195/Aqarati-Dashboard-Real-estate-UIUX");
+                                        },
+                                        imagePath: "images/aqaeati.PNG",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150538195/Aqarati-Dashboard-Real-estate-UIUX");
+                                        },
+                                        projectDesc:
+                                            "Aqarati Dashboard for managing real estate managment Service , hence i designed the whole system with website",
+                                        projectTitle:
+                                            "Aqarati is a real-estate System ",
+                                        tech1: "Adobe XD",
+                                      ),
+
+                                      FeatureProject(
+                                        urlxd: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150258633/Miran-Real-Estate-Website-UX-UI");
+                                        },
+                                        imagePath: "images/miran.PNG",
+                                        ontab: () {
+                                          method.launchURL(
+                                              "https://www.behance.net/gallery/150258633/Miran-Real-Estate-Website-UX-UI");
+                                        },
+                                        projectDesc:
+                                            "miran is a website and web app ui/ux design for finding properies in kurdistan",
+                                        projectTitle:
+                                            "Miran is a website and web app realestate",
+                                        tech1: "Adobe XD",
+                                      ),
+
                                       FeatureProject(
                                         urlxd: () {
                                           method.launchURL(

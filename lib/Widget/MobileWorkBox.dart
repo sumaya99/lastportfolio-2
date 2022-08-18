@@ -15,10 +15,16 @@ class MobileWorkBox extends StatelessWidget {
           duration: "2017 - 2021",
         ),
         WorkCustomData(
-                title: "UI/UX Designer At Lucide Source",
+          title: "UI/UX Designer At Lezzo Eats",
           subTitle:
-              "currently Working as a UI/UX Designer \nat at Lucid Source , full-time office",
-          duration: "2021 - precent",
+              "recently Worked as a UI/UX Designer \nat at Lezzo Eats , full-time office",
+          duration: "2022",
+        ),
+        WorkCustomData(
+          title: "UI/UX Designer At Lucid Source",
+          subTitle:
+              "Worked as a UI/UX Designer \nat at Lucid Source , full-time office",
+          duration: "2021 - 2022",
         ),
         WorkCustomData(
           title: "web Development Bootcamp",
